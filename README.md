@@ -12,7 +12,7 @@ An interactive 10-question web development quiz featuring a countdown timer, liv
 - **Responsive Design:** Optimized for mobile, tablet, and desktop viewing.
 
 ## Live Demo
-👉 **[Insert Live Deployment Link Here]**
+👉 **https://sct-wd-3-k7gnmwjjl-astitwa-s-projects.vercel.app**
 
 ## Technologies Used
 - HTML5
